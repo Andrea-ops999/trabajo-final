@@ -1,0 +1,62 @@
+li {
+    display: inline;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #84B1D7;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #4EC9B3;
+}
+
+.contacto{
+    width: 25%;
+    margin: 15px auto;
+    background: #F3F300;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+form label{
+    display: block;
+    margin: 10px;
+    color: black;
+}
+
+form input{
+    display: block;
+    margin: 10px;
+}
+
+form .boton{
+    margin: 10px;
+    background: #269B99;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 15px;
+}
+
+section{ 
+
+    border-radius: 10px;
+    background: #F4C0F9;
+    color: #201F1E;
+    text-align:centers;
+}
